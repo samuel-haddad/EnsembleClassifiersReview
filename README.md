@@ -1,4 +1,4 @@
-# TreeClassifiersReview
+# EnsemblesClassifiersReview
 **Keywords:** Extra Trees, Randon Forrest, Churn, k-fold
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

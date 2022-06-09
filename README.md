@@ -1,5 +1,5 @@
 # EnsemblesClassifiersReview
-**Keywords:** Extra Trees, Randon Forrest, Churn, k-fold
+**Keywords:** Extra Trees, Randon Forrest, XGBoost, Churn, k-fold
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -10,7 +10,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=samuel-haddad&repo=TreeClassifiersReview&countColor=#40e0d0)
 
 ## Introduction
-After reviewing some issues related to tree models, such as Decision Trees, Randon Forrest, bagging, bootstrap, ensemble models, Gini Index..., I decided to do a practical exercise and chose two algorithms: Extra Trees and Randon Forrest. It's not a study of models, but quick implementations of models just to practice on a different business problem.
+After reviewing some issues related to tree models, such as Decision Trees, Randon Forrest, bagging, bootstrap, ensemble models, Gini Index..., I decided to do a practical exercise and chose three algorithms: Extra Trees, Randon Forrest XGBoost. It's not a study of models, but quick implementations of them just to practice on a different business problem.
 
 It's worth noting that in this exercise I used a cross-validation technique known as k-fold.
 
